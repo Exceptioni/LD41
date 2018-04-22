@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f718fa3581f00014298e3cc12f3f3ec1
+timeCreated: 1524304639
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Small Bold Pixel-7
+  fontNames:
+  - Small Bold Pixel-7
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
